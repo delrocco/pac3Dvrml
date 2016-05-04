@@ -8,9 +8,9 @@
 ~~~~~||""""""""""""">~~~~~||""""">~~~~~~~~~~||"""""">  /""""""">~~~
 ~~~~~||""""">  /""""">~~~~||""""">~~~~~~~~~~||"""""">  /""""">~~~~~
 ~~~~~||""""">  /""""">~~~~||""""">~~~~~~~~~~||"""""""""""""">~~~~~~
-~~~~~||""""">  /""""">~~~~||""""">~~~~~~~~~~~||"""""""""""">~~~~~~~     ToyScouts
-~~~~~++++++++  +++++++~~~~++++++++~~~~~~~~~~~+++++++++++++++~~~~~~~     VRT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	    CREAT
+~~~~~||""""">  /""""">~~~~||""""">~~~~~~~~~~~||"""""""""""">~~~~~~~    ToyScouts
+~~~~~++++++++  +++++++~~~~++++++++~~~~~~~~~~~+++++++++++++++~~~~~~~    VRT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    CREAT
 
 ...................... PAC3D ................... v1.0
 
@@ -37,8 +37,15 @@ The zip file (pac3d_10.zip) should contain:
 
 Installation:
 -------------
-Unzip the file pac3d_10.zip into an empty directory
-and open pac3d.wrl in Cosmo Viewer in Netscape
+Unzip the file pac3d_10.zip and open pac3d.wrl in Cosmo Viewer in Netscape.
+
+Update (05/03/2016):
+-------------
+Cosmo Viewer is no longer supported.
+http://www.karmanaut.com/cosmo/player (mirror of archived site)
+Search for a modern VRML viewer:
+http://www.web3d.org/x3d/content/examples/X3dResources.html
+http://www.cortona3d.com/cortona3d-viewers (works well on Windows)
 
 
 System Req's:
