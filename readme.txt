@@ -37,13 +37,18 @@ The zip file (pac3d_10.zip) should contain:
 
 Installation:
 -------------
-Unzip the file pac3d_10.zip and open pac3d.wrl in Cosmo Viewer in Netscape.
+Unzip the file pac3d_10.zip and open pac3d.wrl in a supported browser.
 
-Update (05/03/2016):
+
+Updates:
 -------------
-Cosmo Viewer is no longer supported.
+(07/19/2020)
+This browser seems to work pretty well:
+http://create3000.de/x_ite/getting-started/
+(05/03/2016)
+Cosmo Viewer is no longer supported:
 http://www.karmanaut.com/cosmo/player (mirror of archived site)
-Search for a modern VRML viewer:
+Search for a modern VRML viewing browser:
 http://www.web3d.org/x3d/content/examples/X3dResources.html
 http://www.cortona3d.com/cortona3d-viewers (works well on Windows)
 
@@ -100,7 +105,7 @@ Production de la:
         Syrus Mesdaghi
 
         At the time, they referred to themselves as ficticious company RPG.
-        All of those members are still programmers today.
+        All of those members are still in software today.
 
 
 Thanks to:
